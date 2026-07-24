@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Thiago Moreira 👋</h1>
+<h3 align="center">Desenvolvedor Full-Stack Junior | Portugal 🇵🇹</h3>
 
-<!--
-**thgmoreira/thgmoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/thiagomoreira-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 Sobre mim
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** — Faculdade SENAC
+- 💼 Full-Stack Junior focado em **HTML, CSS, JS, PHP e MySQL**
+- 📍 Almada, Portugal — disponível para **presencial ou híbrido**
+- 🌱 Estudando atualmente: **React.js** e **APIs REST com PHP**
+- 📫 Me encontre: [LinkedIn](https://www.linkedin.com/in/thiagomoreira-dev/)
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thgmoreira&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thgmoreira&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tech |
+|---|---|---|
+| [Loja de Esportes](https://github.com/thgmoreira/loja_esportes) | E-commerce responsivo com catálogo de produtos | HTML, CSS, JS |
+| [Car Dealership](https://github.com/thgmoreira/car-dealership-landing-page) | Landing page com animações modernas | HTML, CSS |
+| [Modern Glassmorphism](https://github.com/thgmoreira/Modern-Glassmorphism) | UI com efeito glassmorphism | CSS, HTML |
+| [Python Keygen](https://github.com/thgmoreira/Python-serial-keygen) | Gerador de chaves com cópia para clipboard | Python |
+
+---
+
+<p align="center">⭐ Se gostou de algum projeto, deixa uma estrela!</p>

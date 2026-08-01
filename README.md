@@ -12,9 +12,8 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** — Faculdade SENAC
-- 💼 Full-Stack Junior focado em **HTML, CSS, JS, PHP e MySQL**
-- 📍 Almada, Portugal — disponível para **presencial ou híbrido**
+- 💼 Full-Stack Dev | **HTML, CSS, JS, PHP e MySQL**
+- 📍 Trafaria, Portugal — disponível para **presencial ou híbrido**
 - 🌱 Estudando atualmente: **React.js** e **APIs REST com PHP**
 - 📫 Me encontre: [LinkedIn](https://www.linkedin.com/in/thiagomoreira-dev/)
 

@@ -1,5 +1,5 @@
-<h1 align="center">Olá, eu sou o Thiago Moreira 👋</h1>
-<h3 align="center">Desenvolvedor Full-Stack Junior | Portugal 🇵🇹</h3>
+<h1 align="center">Thiago Moreira</h1>
+<h3 align="center">Desenvolvedor Full-Stack | Portugal 🇵🇹</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiagomoreira-dev/">
@@ -29,15 +29,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thgmoreira&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thgmoreira&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 ---

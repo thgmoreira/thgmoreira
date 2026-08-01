@@ -1,6 +1,5 @@
 <h1 align="center">Thiago Moreira</h1>
 <h3 align="center">Desenvolvedor Full-Stack | Portugal 🇵🇹</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/thiagomoreira-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -19,7 +18,7 @@
 
 ---
 
-### Tech Stack
+### Tech Stack:
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -33,14 +32,14 @@
 
 ---
 
-### Projetos em Destaque
+### Projetos em Destaque:
 
 | Projeto | Descrição | Tech |
 |---|---|---|
+| [Caparica Dogs](https://github.com/thgmoreira/C---Dogs-) | Landing page premium para empresa de treino e hotel canino · [site ao vivo ↗](https://caparica-dogs.com) | HTML, CSS, JS |
 | [Loja de Esportes](https://github.com/thgmoreira/loja_esportes) | E-commerce responsivo com catálogo de produtos | HTML, CSS, JS |
 | [Car Dealership](https://github.com/thgmoreira/car-dealership-landing-page) | Landing page com animações modernas | HTML, CSS |
 | [Modern Glassmorphism](https://github.com/thgmoreira/Modern-Glassmorphism) | UI com efeito glassmorphism | CSS, HTML |
 | [Python Keygen](https://github.com/thgmoreira/Python-serial-keygen) | Gerador de chaves com cópia para clipboard | Python |
 
 ---
-

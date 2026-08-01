@@ -10,16 +10,16 @@
 
 ---
 
-### 🧑‍💻 Sobre mim
+### Sobre mim:
 
-- 💼 Full-Stack Dev | **HTML, CSS, JS, PHP e MySQL**
-- 📍 Trafaria, Portugal — disponível para **presencial ou híbrido**
-- 🌱 Estudando atualmente: **React.js** e **APIs REST com PHP**
-- 📫 Me encontre: [LinkedIn](https://www.linkedin.com/in/thiagomoreira-dev/)
+- Full-Stack Dev | **HTML, CSS, JS, PHP e MySQL**
+- Trafaria, Portugal — disponível para **presencial ou híbrido**
+- Estudando atualmente: **React.js** e **APIs REST com PHP**
+- Me encontre: [LinkedIn](https://www.linkedin.com/in/thiagomoreira-dev/)
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -33,7 +33,7 @@
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
 | Projeto | Descrição | Tech |
 |---|---|---|
@@ -44,4 +44,3 @@
 
 ---
 
-<p align="center">⭐ Se gostou de algum projeto, deixa uma estrela!</p>

@@ -36,7 +36,7 @@
 
 | Projeto | Descrição | Tech |
 |---|---|---|
-| [Caparica Dogs](https://github.com/thgmoreira/C---Dogs-) | Landing page premium para empresa de treino e hotel canino · [site ao vivo ↗](https://caparica-dogs.com) | HTML, CSS, JS |
+| [Caparica Dogs](https://github.com/thgmoreira/C---Dogs-) | Landing page premium para empresa de treino e hotel canino · [site ↗](https://caparica-dogs.com) | HTML, CSS, JS |
 | [Loja de Esportes](https://github.com/thgmoreira/loja_esportes) | E-commerce responsivo com catálogo de produtos | HTML, CSS, JS |
 | [Car Dealership](https://github.com/thgmoreira/car-dealership-landing-page) | Landing page com animações modernas | HTML, CSS |
 | [Modern Glassmorphism](https://github.com/thgmoreira/Modern-Glassmorphism) | UI com efeito glassmorphism | CSS, HTML |
